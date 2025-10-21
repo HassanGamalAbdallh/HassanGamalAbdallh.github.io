@@ -65,9 +65,9 @@
 -	Version Control & SCM: GIT/GitLab, TortoiseSVN
 -	Professional Training & Certifications:
   -	Deep Learning Specialization — Coursera (In Progress, Expected Dec 2025)
-  - Complete Modern C++ (C++11/14/17) — Udemy
+  -	Complete Modern C++ (C++11/14/17) — Udemy
   -	VECTOR AUTOSAR Training: Automotive Ethernet, MICROSAR Ethernet Advanced
-  - Embedded Custom Linux Systems with Yocto
+  -	Embedded Custom Linux Systems with Yocto
 - Other: German Driving License — Class B
 
 ### 🌍 Language Skills
