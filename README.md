@@ -1,5 +1,5 @@
 # Hassan Gamal Abdallh
-📍 Stuttgart, Germany | 📧 hassangamalabdallh@email.com | 🌐 [LinkedIn](https://www.linkedin.com/in/hassan-gamal-abdallh-99a33031/)
+📍 Stuttgart, Germany | 📞 +49 (1520) 798-3359 | 📧 hassangamalabdallh@email.com | 🌐 [LinkedIn](https://www.linkedin.com/in/hassan-gamal-abdallh-99a33031/)
 
 ## 💼 Experience
 **System Engineer** -- Robert BOSCH GmbH — Stuttgart, Germany | Oct 2022 – Present
