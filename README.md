@@ -1,13 +1,7 @@
-# HassanGamalAbdallh.github.io
-
 # Hassan Gamal Abdallh
 📍 Stuttgart, Germany | 📧 hassangamalabdallh@email.com | 🌐 [LinkedIn](https://www.linkedin.com/in/hassan-gamal-abdallh-99a33031/)
 
 ## 💼 Experience
-**Software Engineer** – XYZ Corp (2021–Present)  
-- Developed web apps using React and Node.js  
-- Improved performance by 30%
-
 **System Engineer** -- Robert BOSCH GmbH — Stuttgart, Germany | Oct 2022 – Present
 - Focus: Prototype Development for Advanced Driver Assistance Systems (ADAS)
   - Worked on system design and software development for a new ADAS feature, preparing a prototype for customer demonstrations
@@ -61,16 +55,21 @@
   - Compilers: Green Hills, Wind River
 - Standards & Protocols: AUTOSAR, CAN, LIN, Ethernet, SPI, UART
 - Microcontrollers & Platforms: UltraScale ZU4, Renesas (RH850/F1x, RH850/P1x), PCC (Leo, Chorus), Aurix (TC3xx), Raspberry Pi
--	Software & Modeling Tools: MATLAB/Simulink, CarMaker, Doxygen, Enterprise Architect
--	Version Control & SCM: GIT/GitLab, TortoiseSVN
--	Professional Training & Certifications:
-  -	Deep Learning Specialization — Coursera (In Progress, Expected Dec 2025)
-  -	Complete Modern C++ (C++11/14/17) — Udemy
-  -	VECTOR AUTOSAR Training: Automotive Ethernet, MICROSAR Ethernet Advanced
-  -	Embedded Custom Linux Systems with Yocto
+- Software & Modeling Tools: MATLAB/Simulink, CarMaker, Doxygen, Enterprise Architect
+- Version Control & SCM: GIT/GitLab, TortoiseSVN
+- Professional Training & Certifications:
+  - Deep Learning Specialization — Coursera (In Progress, Expected Dec 2025)
+  - Complete Modern C++ (C++11/14/17) — Udemy
+  - VECTOR AUTOSAR Training: Automotive Ethernet, MICROSAR Ethernet Advanced
+  - Embedded Custom Linux Systems with Yocto
 - Other: German Driving License — Class B
 
 ### 🌍 Language Skills
 -	English: Fluent (IELTS Score 6 <B2> in 2015)
 -	German: Intermediate level (Telc <B1>)
 -	Arabic: Mother tongue
+
+### 🎯 Hobbies & Interests
+- Reading    
+- Travel and Swimming 
+- Football (SSV Zuffenhausen)
