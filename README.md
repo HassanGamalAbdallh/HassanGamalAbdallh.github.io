@@ -77,7 +77,7 @@
 
 ### 🌍 Language Skills
 -	English: Fluent (IELTS Score 6 <B2> in 2015)
--	German: Intermediate level (Telc <B1>)
+-	German: Intermediate level (Telc B1)
 -	Arabic: Mother tongue
 
 ### 🎯 Hobbies & Interests
