@@ -1,5 +1,18 @@
+<table>
+  <tr>
+    <td>
+
 # Hassan Gamal Abdallh
-📍 Stuttgart, Germany | 📞 +49 (1520) 798-3359 | 📧 hassangamalabdallh@email.com | 🌐 [LinkedIn](https://www.linkedin.com/in/hassan-gamal-abdallh-99a33031/) | 🌍 Nationality: German, Egyptian 
+**Embedded Software Engineer**  
+📍 Stuttgart, Germany | 📞 +49 (1520) 798-3359 | ✉️ hassangamalabdallh@email.com |🔗 [LinkedIn](https://www.linkedin.com/in/hassan-gamal-abdallh-99a33031/)<br> 
+🌍Nationality: German, Egyptian<br>
+
+</td>
+    <td align="right">
+      <img src="images/09_Hassan_R3123106.jpg" alt="Your Name" width="150"/>
+    </td>
+  </tr>
+</table>
 
 ## 💼 Experience
 **System Engineer** -- Robert BOSCH GmbH — Stuttgart, Germany | Oct 2022 – Present
