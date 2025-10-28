@@ -6,15 +6,12 @@
       <p style="margin: 4px 0;">
         📍 Stuttgart, Germany | 📞 +49 (1520) 798-3359 | 
         ✉️ <a href="mailto:hassangamalabdallh@email.com">hassangamalabdallh@email.com</a> | 
-        🔗 <a href="https://www.linkedin.com/in/hassan-gamal-abdallh-99a33031/">LinkedIn</a><br>
+        🔗 <a href="https://www.linkedin.com/in/hassan-gamal-abdallh-99a33031/">LinkedIn</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <br>
         🌍 Nationality: German, Egyptian
       </p>
     </td>
-    <!-- Right corner photo -->
     <td style="border: none; text-align: right; vertical-align: top; width: 150px;">
-      <img src="images/09_Hassan_R3123106.jpg" 
-           alt="Hassan Gamal Abdallh" 
-           width="150" 
+      <img src="images/09_Hassan_R3123106.jpg" alt="Hassan Gamal Abdallh" width="150"
            style="border-radius: 10px; object-fit: cover;"/>
     </td>
   </tr>
