@@ -1,15 +1,21 @@
-<table>
+<table style="width: 100%; border-collapse: collapse; border: none;">
   <tr>
-    <td>
-
-# Hassan Gamal Abdallh
-**Embedded Software Engineer**  
-📍 Stuttgart, Germany | 📞 +49 (1520) 798-3359 | ✉️ hassangamalabdallh@email.com |🔗 [LinkedIn](https://www.linkedin.com/in/hassan-gamal-abdallh-99a33031/)<br> 
-🌍Nationality: German, Egyptian<br>
-
-</td>
-    <td align="right">
-      <img src="images/09_Hassan_R3123106.jpg" alt="Your Name" width="150"/>
+    <td style="border: none; vertical-align: top; text-align: left;">
+      <h1 style="margin: 0;">Hassan Gamal Abdallh</h1>
+      <p style="margin: 4px 0;"><strong>Embedded Software Engineer</strong></p>
+      <p style="margin: 4px 0;">
+        📍 Stuttgart, Germany | 📞 +49 (1520) 798-3359 | 
+        ✉️ <a href="mailto:hassangamalabdallh@email.com">hassangamalabdallh@email.com</a> | 
+        🔗 <a href="https://www.linkedin.com/in/hassan-gamal-abdallh-99a33031/">LinkedIn</a><br>
+        🌍 Nationality: German, Egyptian
+      </p>
+    </td>
+    <!-- Right corner photo -->
+    <td style="border: none; text-align: right; vertical-align: top; width: 150px;">
+      <img src="images/09_Hassan_R3123106.jpg" 
+           alt="Hassan Gamal Abdallh" 
+           width="150" 
+           style="border-radius: 10px; object-fit: cover;"/>
     </td>
   </tr>
 </table>
@@ -20,7 +26,7 @@
   - Worked on system design and software development for a new ADAS feature, preparing a prototype for customer demonstrations
   - Translated customer requirements into actionable technical specifications to guide feature development
   - Collaborated with the platform team to integrate the prototype and ensure scalable implementation
-- Key Achievements
+- **Key Achievements**
   - Delivered a functional ADAS prototype ready for customer demos
   - Strengthened cross-functional collaboration between development, platform, and validation teams
 
@@ -30,7 +36,7 @@
   - Tested and validated AUTOSAR stacks on customer hardware
   - Provided technical support to customers, resolving integration and configuration issues
   - Supported team efficiency by sharing guidance, maintaining documentation, and improving processes
-- Key Achievements
+- **Key Achievements**
   - Successfully launched key safety features (Camera Flap Protection, Park Damage Detection) now integrated into production vehicles
   - Contributed to significant runtime optimization, leading to a measurable increase in system responsiveness and memory efficiency
 
@@ -41,7 +47,7 @@
   - Conducted runtime performance analysis on vehicles, identified memory bottlenecks, and optimized software for improved object detection in parking scenarios
   - Set up and maintained a HIL test bench simulating sensor fusion and parking use cases, speeding up validation and reducing dependence on on-road testing
   - Performed debugging and validation on both HIL systems and real vehicles to ensure feature stability under diverse environmental and operational conditions
-- Key Achievements
+- **Key Achievements**
   -  Successfully launched key safety features (Camera Flap Protection, Park Damage Detection) now integrated into production vehicles
   -  Contributed to significant runtime optimization, leading to a measurable increase in system responsiveness and memory efficiency
 
@@ -52,7 +58,7 @@
   - Developed and tested MCAL drivers (CAN, MCU, timers, OS) across multiple hardware platforms
   - Conducted HIL-based system validation to verify software and hardware compatibility
   - Supported customer evaluation projects by delivering functional software prototypes
-- Key Achievements
+- **Key Achievements**
   - Delivered production-ready Park4U integration for Ford F-150 vehicles
   - Supported early customer demos and prototype validation
 
@@ -60,7 +66,7 @@
 - **Project: Solar-Powered Farm Automation**
   - Developed and implemented embedded firmware for solar-powered agricultural irrigation systems
   - Supported deployment and testing of irrigation solutions for large-scale farms
-- Key Achievements
+- **Key Achievements**
   - Delivered a solar-powered irrigation control system managing water supply for a 4,000-acre farm
 
 **Telecommunication Soldier (Mandatory Military Service)** -- Egyptian Armed Forces — Egypt | Jan 2012 – Mar 2013
