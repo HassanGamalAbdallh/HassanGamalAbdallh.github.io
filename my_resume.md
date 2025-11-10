@@ -92,6 +92,7 @@ Results-oriented Embedded Software Engineer with over 10 years of experience in 
   - [Complete Modern C++ (C++11/14/17) — Udemy](docs/UdemyCourse-CompleteModernC++_11_14_17.pdf)
   - [VECTOR AUTOSAR Automotive Ethernet](docs/VI-OET-Remote-Certificate-EN_AutomotiveEthernet.pdf)
   - [VECTOR AUTOSAR MICROSAR Ethernet Advanced](docs/VI-OET-Remote-Certificate-EN-MICROSAREthernetAdvancedCourse.pdf)
+  - [BOSCH_System Engineering Trainings](docs/BOSCH_certificates)
   - Embedded Custom Linux Systems with Yocto
 - Other: German Driving License — Class B
 
