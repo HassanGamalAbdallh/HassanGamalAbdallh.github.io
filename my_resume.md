@@ -17,6 +17,9 @@
   </tr>
 </table>
 
+## Summary
+Results-oriented Embedded Software Engineer with over 10 years of experience in the design, development, testing, and integration of embedded systems across global projects. Skilled in creating innovative prototypes, enhancing system performance, and ensuring compliance with industry standards. Passionate about contributing to cutting-edge technologies that drive intelligent, connected, and sustainable solutions for the future
+
 ## 💼 Experience
 **System Engineer** -- Robert BOSCH GmbH — Stuttgart, Germany | Oct 2022 – Present
 - **Focus: Prototype Development for Advanced Driver Assistance Systems (ADAS)**
