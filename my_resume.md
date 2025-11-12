@@ -24,13 +24,13 @@ Results-oriented Embedded Software Engineer with over 10 years of experience in 
 **System Engineer** -- Robert BOSCH GmbH — Stuttgart, Germany | Oct 2022 – Present
 - **Focus: Prototype Development for Advanced Driver Assistance Systems (ADAS)**
   - Worked on system design and software development for a new ADAS feature, preparing a prototype for customer demonstrations
-  - Translated customer requirements into actionable technical specifications to guide feature development
+  - Translated Toyota's customer requirements into actionable technical specifications to guide feature development
   - Collaborated with the platform team to integrate the prototype and ensure scalable implementation
 - **Key Achievements**
   - Delivered a functional ADAS prototype ready for customer demos
-  - Strengthened cross-functional collaboration between development, platform, and validation teams
+  - Strengthened cross-functional collaboration between development, platform, and validation teams by introducing documentation standards
 
-**Embedded Software Developer** -- T&S GmbH (Leasing to Vector Informatik GmbH) — Stuttgart, Germany | Aug 2021 – Sep 2022
+**Embedded Software Developer** -- T&S GmbH (Leased to Vector Informatik GmbH) — Stuttgart, Germany | Aug 2021 – Sep 2022
 - **Project: Daimler – Automatic Parking (Project: Daimler – Automatic Parking)**
   - Configured and integrated AUTOSAR Basic Software (BSW) modules using DaVinci Configurator Pro, including COM stack, MEM stack, DIAG stack, OS, and others
   - Tested and validated AUTOSAR stacks on customer hardware
@@ -40,7 +40,7 @@ Results-oriented Embedded Software Engineer with over 10 years of experience in 
   - Successfully launched key safety features (Camera Flap Protection, Park Damage Detection) now integrated into production vehicles
   - Contributed to significant runtime optimization, leading to a measurable increase in system responsiveness and memory efficiency
 
-**Embedded Software Developer** -- T&S GmbH (Leasing to Robert BOSCH GmbH) — Stuttgart, Germany | Sep 2018 – July 2021
+**Embedded Software Developer** -- T&S GmbH (Leased to Robert BOSCH GmbH) — Stuttgart, Germany | Sep 2018 – July 2021
 - **Project: Daimler – Automatic Parking (Project: Daimler – Automatic Parking)**
   - Took ownership of the final development phase for the Camera Flap Protection and Park Damage Detection features for Daimler’s automatic parking systems, enhancing vehicle safety and system reliability
   - Implemented KPI measurement scripts for dynamic fusion objects (ultrasonic + camera sensors) to evaluate detection accuracy and robustness
