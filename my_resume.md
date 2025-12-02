@@ -37,8 +37,7 @@ Results-oriented Embedded Software Engineer with over 10 years of experience in 
   - Provided technical support to customers, resolving integration and configuration issues
   - Supported team efficiency by sharing guidance, maintaining documentation, and improving processes
 - **Key Achievements**
-  - Successfully launched key safety features (Camera Flap Protection, Park Damage Detection) now integrated into production vehicles
-  - Contributed to significant runtime optimization, leading to a measurable increase in system responsiveness and memory efficiency
+  - Provided technical support to customers, resolving configuration issues and improving project timelines
 
 **Embedded Software Developer** -- T&S GmbH (Leased to Robert BOSCH GmbH) — Stuttgart, Germany | Sep 2018 – July 2021
 - **Project: Daimler – Automatic Parking (Project: Daimler – Automatic Parking)**
