@@ -31,7 +31,6 @@ Results-oriented Embedded Software Engineer with over 10 years of experience in 
   - Strengthened cross-functional collaboration between development, platform, and validation teams by introducing documentation standards
 
 **Embedded Software Developer** -- T&S GmbH (Leased to Vector Informatik GmbH) — Stuttgart, Germany | Aug 2021 – Sep 2022
-- **Project: Daimler – Automatic Parking (Project: Daimler – Automatic Parking)**
   - Configured and integrated AUTOSAR Basic Software (BSW) modules using DaVinci Configurator Pro, including COM stack, MEM stack, DIAG stack, OS, and others
   - Tested and validated AUTOSAR stacks on customer hardware
   - Provided technical support to customers, resolving integration and configuration issues
