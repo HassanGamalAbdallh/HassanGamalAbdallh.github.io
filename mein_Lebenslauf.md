@@ -4,10 +4,10 @@
       <h1 style="margin: 0;">Hassan Gamal Abdallh</h1>
       <p style="margin: 4px 0;"><strong>Embedded Software Engineer</strong></p>
       <p style="margin: 4px 0;">
-        📍 Stuttgart, Germany | 📞 +49 (1520) 798-3359 | 
+        📍 Stuttgart, Deutschland | 📞 +49 (1520) 798-3359 | 
         ✉️ <a href="mailto:hassangamalabdallh@email.com">hassangamalabdallh@email.com</a> | 
         🔗 <a href="https://www.linkedin.com/in/hassan-gamal-abdallh-99a33031/">LinkedIn</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <br>
-        🌍 Nationality: German, Egyptian
+        🌍 Nationalität: Deutsch, Ägyptisch
       </p>
     </td>
     <td style="border: none; text-align: right; vertical-align: top; width: 150px;">
