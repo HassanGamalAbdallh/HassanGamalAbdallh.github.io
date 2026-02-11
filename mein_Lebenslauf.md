@@ -86,7 +86,7 @@ Ergebnisorientierter Embedded Software Engineer mit über 10 Jahren Erfahrung in
 - Software- & Modellierungswerkzeuge: MATLAB/Simulink, CarMaker, Doxygen, Enterprise Architect
 - Versionskontrolle & SCM: GIT/GitLab, TortoiseSVN
 - Professional Training & Zertifizierungen:
-  - Deep Learning Specialization — Coursera (In Progress, Expected Jan 2026)
+  - Deep Learning Specialization — Coursera (In Progress)
   - [Complete Modern C++ (C++11/14/17) — Udemy](docs/UdemyCourse-CompleteModernC++_11_14_17.pdf)
   - [VECTOR AUTOSAR Automotive Ethernet](docs/VI-OET-Remote-Certificate-EN_AutomotiveEthernet.pdf)
   - [VECTOR AUTOSAR MICROSAR Ethernet Advanced](docs/VI-OET-Remote-Certificate-EN-MICROSAREthernetAdvancedCourse.pdf)
