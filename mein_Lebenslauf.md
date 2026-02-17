@@ -95,7 +95,7 @@ Ergebnisorientierter Embedded Software Engineer mit über 10 Jahren Erfahrung in
 
 ### 🌍 Sprachkenntnisse
 -	Englisch: Fließend (IELTS 6 – B2, 2015)
--	Deutsch: Mittelstufe (Telc B1)
+-	Deutsch: Mittelstufe (B2)
 -	Arabisch: Muttersprache
 
 ### 🎯 Hobbys & Interessen
