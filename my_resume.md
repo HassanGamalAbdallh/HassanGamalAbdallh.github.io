@@ -96,7 +96,7 @@ Results-oriented Embedded Software Engineer with over 10 years of experience in 
 
 ### 🌍 Language Skills
 -	English: Fluent (IELTS Score 6 <B2> in 2015)
--	German: Intermediate level (Telc B1)
+-	German: Intermediate level (B2)
 -	Arabic: Mother tongue
 
 ### 🎯 Hobbies & Interests
