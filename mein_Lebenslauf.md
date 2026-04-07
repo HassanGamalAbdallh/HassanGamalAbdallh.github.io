@@ -30,7 +30,7 @@ Ergebnisorientierter Embedded Software Engineer mit über 10 Jahren Erfahrung in
   - Bereitstellung eines voll funktionsfähigen ADAS-Prototyps für Kundendemos
   - Stärkung der funktionsübergreifenden Zusammenarbeit zwischen Entwicklung, Plattform und Validierung
 
-**Embedded Software Developer** — T&S GmbH (Leasing an Vector Informatik GmbH) — Stuttgart, Deutschland | Aug 2021 – Sep 2022
+**Embedded Softwareentwickler** — T&S GmbH (Leasing an Vector Informatik GmbH) — Stuttgart, Deutschland | Aug 2021 – Sep 2022
   - Konfiguration und Integration von AUTOSAR Basic Software (BSW)-Modulen mit DaVinci Configurator Pro, einschließlich COM-Stack, MEM-Stack, DIAG-Stack, OS und weiteren Modulen
   - Test und Validierung von AUTOSAR-Stacks auf Kundenhardware
   - Technischer Support für Kunden zur Lösung von Integrations- und Konfigurationsproblemen
