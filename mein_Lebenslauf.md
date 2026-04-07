@@ -38,7 +38,7 @@ Ergebnisorientierter Embedded Software Engineer mit über 10 Jahren Erfahrung in
 - **Wichtigste Erfolge**
   - Technischer Support für Kunden, Lösung von Konfigurationsproblemen und Verbesserung der Projektzeitpläne
 
-**Embedded Software Developer** — T&S GmbH (Leasing an Robert BOSCH GmbH) — Stuttgart, Deutschland | Sep 2018 – Jul 2021
+**Embedded Softwareentwickler** — T&S GmbH (Leasing an Robert BOSCH GmbH) — Stuttgart, Deutschland | Sep 2018 – Jul 2021
 - **Projekt: Daimler – Automatisches Parken**
   - Verantwortlich für die finale Entwicklungsphase der Features „Kameraklappenschutz“ und „Parkschadenerkennung“ für Daimlers automatische Parksysteme zur Verbesserung der Fahrzeugsicherheit
   - Implementierung von KPI-Messskripten für dynamische Fusionsobjekte (Ultraschall + Kamera), um Erkennungsgenauigkeit und Robustheit auszuwerten
@@ -49,7 +49,7 @@ Ergebnisorientierter Embedded Software Engineer mit über 10 Jahren Erfahrung in
   -  Erfolgreiche Serienfreigabe für die Features Kameraklappenschutz und Parkschadenerkennung
   -  Wesentlicher Beitrag zur Laufzeitoptimierung und Steigerung der Systemperformance
 
-**Embedded Software Developer** — Valeo (Automatic Parking) — Smart Village, Ägypten | Jan 2016 – Jul 2018
+**Embedded Softwareentwickler** — Valeo (Automatic Parking) — Smart Village, Ägypten | Jan 2016 – Jul 2018
 - **Projekt: ADAS „Park4U“ – Ford F-150**
   - Integration von AUTOSAR-Applikationskomponenten mit BSW für Park4U-Projekte
   - Konfiguration und Validierung wichtiger AUTOSAR-Module (MCU, Port, DIO, GPT) zur Unterstützung der ECU-Funktionalität
@@ -60,7 +60,7 @@ Ergebnisorientierter Embedded Software Engineer mit über 10 Jahren Erfahrung in
   - Serienreife Integration von Park4U für Ford F-150
   - Unterstützung von frühen Kundendemos und Prototypvalidierungen
 
-**Firmware Developer** — Karm Solar — Kairo, Ägypten | Okt 2014 – Nov 2015
+**Firmwareentwickler** — Karm Solar — Kairo, Ägypten | Okt 2014 – Nov 2015
 - **Projekt: Solarbetriebene Farm-Automatisierung**
   - Entwicklung und Implementierung eingebetteter Firmware für solarbetriebene Bewässerungssysteme
   - Unterstützung bei der Implementierung und dem Test großflächiger landwirtschaftlicher Bewässerungslösungen
