@@ -57,7 +57,7 @@ Ergebnisorientierter Embedded Software Engineer mit über 10 Jahren Erfahrung in
   - HIL-basierte Systemvalidierung zur Überprüfung der Hard- und Softwarekompatibilität
   - Unterstützung von Kundenbewertungen durch die Bereitstellung funktionaler Softwareprototypen
 - **Wichtigste Erfolge**
-  - Serienreife Integration von Park4U für Ford F-150
+  - Bereitstellung einer serienreifen Park4U-Integration für Ford F-150-Fahrzeuge
   - Unterstützung von frühen Kundendemos und Prototypvalidierungen
 
 **Firmwareentwickler** — Karm Solar — Kairo, Ägypten | Okt 2014 – Nov 2015
